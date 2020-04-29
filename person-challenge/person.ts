@@ -23,4 +23,3 @@ export class person {
 // }
 
 export let humanoidA = new person("Marcelo", "Azevedo", 33);
-
